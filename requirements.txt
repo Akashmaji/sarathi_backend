@@ -1,0 +1,14 @@
+ultralytics
+opencv-python
+fastapi
+uvicorn
+hypercorn
+pyttsx3
+torch
+torchvision
+python-multipart
+python-dotenv
+google-generativeai
+numpy
+easyocr
+timm
